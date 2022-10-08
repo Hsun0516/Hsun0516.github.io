@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-10-08T07:39:57.908Z</updated>
+  <updated>2022-10-08T12:50:21.156Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MarkDown練習</title>
+    <link href="http://example.com/2022/10/08/MarkDown%E7%B7%B4%E7%BF%92/"/>
+    <id>http://example.com/2022/10/08/MarkDown%E7%B7%B4%E7%BF%92/</id>
+    <published>2022-10-08T12:32:00.000Z</published>
+    <updated>2022-10-08T12:50:21.156Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="1號標題"><a href="#1號標題" class="headerlink" title="1號標題"></a>1號標題</h1><h2 id="2號標題"><a href="#2號標題" class="headerlink" title="2號標題"></a>2號標題</h2><h3 id="3號標題"><a href="#3號標題" class="headerlink" title="3號標題"></a>3號標題</h3><h4 id="4號標題"><a href="#4號標題" class="headerlink" title="4號標題"></a>4號標題</h4><h5 id="5號標題"><a href="#5號標題" class="headerlink" title="5號標題"></a>5號標題</h5><h6 id="6號標題"><a href="#6號標題" class="headerlink" title="6號標題"></a>6號標題</h6><p><strong>粗體字</strong></p><p><em>斜體字</em></p><p><del>刪除線</del></p><!--分隔線--><hr><hr><p><a href="https://youtube.com/">Youtube</a></p><ul><li>無序列表*</li></ul><ul><li>無序列表+</li></ul><ul><li>無序列表-</li></ul><ol><li>有序列表</li></ol><blockquote><p>引用</p></blockquote><p><img src="https://imgur.com/abc.jpg" alt="圖片名稱"></p><ul><li><input disabled="" type="checkbox"> 勾選框</li><li><input checked="" disabled="" type="checkbox"> 勾選框(預設勾選)</li></ul><p>程式碼片段 <code>var a = 10;</code>。</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#程式碼區塊</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello World&quot;</span>)</span><br></pre></td></tr></table></figure><table><thead><tr><th align="center">這是標題</th><th align="center">這也是標題</th></tr></thead><tbody><tr><td align="center">中午吃什麼?</td><td align="center">中午不吃飯</td></tr></tbody></table>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;1號標題&quot;&gt;&lt;a href=&quot;#1號標題&quot; class=&quot;headerlink&quot; title=&quot;1號標題&quot;&gt;&lt;/a&gt;1號標題&lt;/h1&gt;&lt;h2 id=&quot;2號標題&quot;&gt;&lt;a href=&quot;#2號標題&quot; class=&quot;headerlink&quot; title=&quot;2號標題&quot;&gt;&lt;/a</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>我的第一篇文章</title>
@@ -54,7 +74,7 @@
     <link href="http://example.com/2022/10/06/hello-world/"/>
     <id>http://example.com/2022/10/06/hello-world/</id>
     <published>2022-10-06T12:46:13.401Z</published>
-    <updated>2022-10-06T12:46:13.401Z</updated>
+    <updated>2022-10-08T12:50:31.851Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
