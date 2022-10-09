@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2022/10/08/MarkDown%E7%B7%B4%E7%BF%92/</loc>
+    
+    <lastmod>2022-10-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2022/10/08/Test/</loc>
     
     <lastmod>2022-10-09</lastmod>
@@ -38,15 +47,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/10/08/MarkDown%E7%B7%B4%E7%BF%92/</loc>
-    
-    <lastmod>2022-10-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/about/index.html</loc>
     
     <lastmod>2022-10-08</lastmod>
@@ -74,6 +74,20 @@
 
   
   <url>
+    <loc>http://example.com/tags/MarkDown/</loc>
+    <lastmod>2022-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/%E5%85%A5%E9%96%80/</loc>
+    <lastmod>2022-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/tags/test/</loc>
     <lastmod>2022-10-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -81,6 +95,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>http://example.com/categories/MarkDown/</loc>
+    <lastmod>2022-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>http://example.com/categories/Python/</loc>
