@@ -5,13 +5,13 @@
     <url>/2022/10/08/MarkDown%E7%B7%B4%E7%BF%92/</url>
     <content><![CDATA[<p>近期開始撰寫技術部落格，</p>
 <blockquote>
-<h4 id="1-標題"><a href="#1-標題" class="headerlink" title="1 標題"></a>1 標題</h4><p>標題共有6種大小，分別對應到html的h1到h6，在markdown中以”#”的數量表示，注意”#”與標題文字之間須以一個空格隔開，以下是範例</p>
-</blockquote>
+<h4 id="1-標題"><a href="#1-標題" class="headerlink" title="1 標題"></a>1 標題</h4></blockquote>
+<p>標題共有6種大小，分別對應到html的h1到h6，在markdown中以”#”的數量表示，注意”#”與標題文字之間須以一個空格隔開，以下是範例</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 1號標題</span><br><span class="line">## 2號標題</span><br><span class="line">### 3號標題</span><br><span class="line">#### 4號標題</span><br><span class="line">##### 5號標題</span><br><span class="line">###### 6號標題</span><br></pre></td></tr></table></figure>
 
 <blockquote>
-<h4 id="2-粗體、斜體、刪除線"><a href="#2-粗體、斜體、刪除線" class="headerlink" title="2 粗體、斜體、刪除線"></a>2 粗體、斜體、刪除線</h4><p><strong>粗體字</strong> : <code>**粗體字**</code><br><em>斜體字</em> : <code>*斜體字*</code><br><del>刪除線</del> : <code>~~刪除線~~</code></p>
-</blockquote>
+<h4 id="2-粗體、斜體、刪除線"><a href="#2-粗體、斜體、刪除線" class="headerlink" title="2 粗體、斜體、刪除線"></a>2 粗體、斜體、刪除線</h4></blockquote>
+<p><strong>粗體字</strong> : <code>**粗體字**</code><br><em>斜體字</em> : <code>*斜體字*</code><br><del>刪除線</del> : <code>~~刪除線~~</code></p>
 <blockquote>
 <h4 id="3-分隔線"><a href="#3-分隔線" class="headerlink" title="3 分隔線"></a>3 分隔線</h4><p><code>***</code>、<code>---</code>、<code>___ (三個底線)</code> 三種效果是一樣的，如下</p>
 </blockquote>
