@@ -48,15 +48,16 @@
 ]]></content>
   </entry>
   <entry>
-    <title>title</title>
-    <url>/2022/10/06/title/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>Test</title>
     <url>/2022/10/08/Test/</url>
     <content><![CDATA[<h2 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h2><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello Hexo&quot;</span>)</span><br></pre></td></tr></table></figure>
 ]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -75,5 +76,10 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>title</title>
+    <url>/2022/10/06/title/</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>

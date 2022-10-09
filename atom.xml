@@ -41,7 +41,7 @@
     <link href="http://example.com/2022/10/08/Test/"/>
     <id>http://example.com/2022/10/08/Test/</id>
     <published>2022-10-08T02:40:29.000Z</published>
-    <updated>2022-10-08T14:58:13.405Z</updated>
+    <updated>2022-10-09T04:47:00.446Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello Hexo&quot;</span>)</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -53,6 +53,10 @@
     
     
     
+    <category term="Python" scheme="http://example.com/categories/Python/"/>
+    
+    
+    <category term="test" scheme="http://example.com/tags/test/"/>
     
   </entry>
   
