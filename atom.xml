@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-10-12T15:36:41.051Z</updated>
+  <updated>2022-10-16T04:19:12.111Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,21 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>MarkDown基礎語法</title>
+    <title>十分鐘快速掌握MarkDown實用技巧</title>
     <link href="http://example.com/2022/10/08/MarkDown%E7%B7%B4%E7%BF%92/"/>
     <id>http://example.com/2022/10/08/MarkDown%E7%B7%B4%E7%BF%92/</id>
     <published>2022-10-08T12:32:00.000Z</published>
-    <updated>2022-10-12T15:36:41.051Z</updated>
+    <updated>2022-10-16T04:19:12.111Z</updated>
     
-    <content type="html"><![CDATA[<p>近期開始撰寫技術部落格，</p><blockquote><h4 id="1-標題"><a href="#1-標題" class="headerlink" title="1 標題"></a>1 標題</h4></blockquote><p>標題共有6種大小，分別對應到html的h1到h6，在markdown中以”#”的數量表示，注意”#”與標題文字之間須以一個空格隔開，以下是範例</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># 1號標題</span><br><span class="line">## 2號標題</span><br><span class="line">### 3號標題</span><br><span class="line">#### 4號標題</span><br><span class="line">##### 5號標題</span><br><span class="line">###### 6號標題</span><br></pre></td></tr></table></figure><blockquote><h4 id="2-粗體、斜體、刪除線"><a href="#2-粗體、斜體、刪除線" class="headerlink" title="2 粗體、斜體、刪除線"></a>2 粗體、斜體、刪除線</h4></blockquote><p><strong>粗體字</strong> : <code>**粗體字**</code><br><em>斜體字</em> : <code>*斜體字*</code><br><del>刪除線</del> : <code>~~刪除線~~</code></p><blockquote><h4 id="3-分隔線"><a href="#3-分隔線" class="headerlink" title="3 分隔線"></a>3 分隔線</h4></blockquote><p><code>***</code>、<code>---</code>、<code>___</code>(三個底線) 三種效果是一樣的，如下</p><hr><blockquote><h4 id="4-超連結"><a href="#4-超連結" class="headerlink" title="4 超連結"></a>4 超連結</h4></blockquote><p><code>[顯示文字](網址)</code> 效果如右: <a href="https://youtube.com/">Youtube</a></p><blockquote><h4 id="5-列表"><a href="#5-列表" class="headerlink" title="5 列表"></a>5 列表</h4></blockquote><ul><li>無序列表*</li></ul><ul><li>無序列表+</li></ul><ul><li>無序列表-</li></ul><ol><li>有序列表</li></ol><blockquote><h4 id="6-引用區塊-這是一個引用區塊"><a href="#6-引用區塊-這是一個引用區塊" class="headerlink" title="6 引用區塊 (這是一個引用區塊)"></a>6 引用區塊 (這是一個引用區塊)</h4></blockquote><p><code>&gt; 文字</code> 效果如上</p><blockquote><h4 id="7-圖片"><a href="#7-圖片" class="headerlink" title="7 圖片"></a>7 圖片</h4></blockquote><p><code>![圖片名稱](網址)</code> 效果如下<br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/312px-Markdown-mark.svg.png" alt="MarkDown Image"></p><blockquote><h4 id="8-勾選框"><a href="#8-勾選框" class="headerlink" title="8 勾選框"></a>8 勾選框</h4></blockquote><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">- [ ] 勾選框</span><br><span class="line">- [x] 勾選框(預設勾選)</span><br></pre></td></tr></table></figure><p>效果如下</p><ul><li><input disabled="" type="checkbox"> 勾選框</li><li><input checked="" disabled="" type="checkbox"> 勾選框(預設勾選)</li></ul><blockquote><h4 id="9-程式碼片段"><a href="#9-程式碼片段" class="headerlink" title="9 程式碼片段"></a>9 程式碼片段</h4></blockquote><p>在文字的前後加上各加上一個反引號【`】(位於鍵盤esc下面)，效果如下<br><code>var a = 10;</code></p><blockquote><h4 id="10-程式碼區塊"><a href="#10-程式碼區塊" class="headerlink" title="10 程式碼區塊"></a>10 程式碼區塊</h4></blockquote><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello World&quot;</span>)</span><br></pre></td></tr></table></figure><blockquote><h4 id="11-表格"><a href="#11-表格" class="headerlink" title="11 表格"></a>11 表格</h4></blockquote><p>mrkdown的表格不是很好寫，範例如下。所以我建議直接至網上找現成的表格產生器比較快<br><a href="https://www.tablesgenerator.com/markdown_tables">Markdown Table Generator</a></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">|Title |Tiele |</span><br><span class="line">|:----:|:----:|</span><br><span class="line">| Text | Text |</span><br></pre></td></tr></table></figure><table><thead><tr><th align="center">Title</th><th align="center">Tiele</th></tr></thead><tbody><tr><td align="center">Text</td><td align="center">Text</td></tr></tbody></table>]]></content>
+    <content type="html"><![CDATA[<blockquote><h4 id="1-標題"><a href="#1-標題" class="headerlink" title="1 標題"></a>1 標題</h4></blockquote><p>標題共有6種大小，分別對應到html的h1到h6，在markdown中以”#”的數量表示，以下是範例。<br><strong>注意</strong> : #的數量越<strong>少</strong>字體越<strong>大</strong>、#與標題文字之間須以<strong>一個空格</strong>隔開</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># 1號標題</span><br><span class="line">## 2號標題</span><br><span class="line">### 3號標題</span><br><span class="line">#### 4號標題</span><br><span class="line">##### 5號標題</span><br><span class="line">###### 6號標題</span><br></pre></td></tr></table></figure><blockquote><h4 id="2-粗體、斜體、刪除線"><a href="#2-粗體、斜體、刪除線" class="headerlink" title="2 粗體、斜體、刪除線"></a>2 粗體、斜體、刪除線</h4></blockquote><p><strong>粗體字</strong> : <code>**粗體字**</code> 或 <code>__粗體字__</code><br><em>斜體字</em> : <code>*斜體字*</code> 或 <code>_斜體字_</code><br><del>刪除線</del> : <code>~~刪除線~~</code></p><blockquote><h4 id="3-分隔線"><a href="#3-分隔線" class="headerlink" title="3 分隔線"></a>3 分隔線</h4></blockquote><p><code>***</code>、<code>---</code>、<code>___</code>(三個底線) 三種效果是一樣的，如下</p><hr><blockquote><h4 id="4-超連結"><a href="#4-超連結" class="headerlink" title="4 超連結"></a>4 超連結</h4></blockquote><p><code>[顯示文字](網址)</code> 效果如右: <a href="https://youtube.com/">Youtube</a></p><blockquote><h4 id="5-列表"><a href="#5-列表" class="headerlink" title="5 列表"></a>5 列表</h4></blockquote><p>列表(清單)分為有序和無序列表，兩種都包含多個層級，只要加上一個<strong>縮排(Tab鍵)<strong>或</strong>兩個空格</strong>即可新增一個層級。<br><strong>注意</strong> : 有序列表的數字可不用照順序</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">* 無序列表</span><br><span class="line">+ 無序列表</span><br><span class="line">- 無序列表</span><br><span class="line">    - 無序列表子項目</span><br></pre></td></tr></table></figure><ul><li>無序列表<ul><li>無序列表子項目</li></ul></li></ul><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">1. 有序列表</span><br><span class="line">2. 有序列表</span><br><span class="line">    1. 有序列表子項目</span><br></pre></td></tr></table></figure><ol><li>有序列表</li><li>有序列表<ol><li>有序列表子項目</li></ol></li></ol><blockquote><h4 id="6-引用區塊-這是一個引用區塊"><a href="#6-引用區塊-這是一個引用區塊" class="headerlink" title="6 引用區塊 (這是一個引用區塊)"></a>6 引用區塊 (這是一個引用區塊)</h4></blockquote><p>在文字前加上 &gt; 即可。<code>&gt;文字</code> 效果如上</p><blockquote><h4 id="7-圖片"><a href="#7-圖片" class="headerlink" title="7 圖片"></a>7 圖片</h4></blockquote><p>結構和超連結類似，只是在前面多了 <strong>!</strong><br><code>![圖片名稱](網址)</code> 效果如下<br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/312px-Markdown-mark.svg.png" alt="MarkDown Image"></p><blockquote><h4 id="8-勾選框"><a href="#8-勾選框" class="headerlink" title="8 勾選框"></a>8 勾選框</h4></blockquote><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">- [ ] 勾選框</span><br><span class="line">- [x] 勾選框(預設勾選)</span><br></pre></td></tr></table></figure><p>效果如下</p><ul><li><input disabled="" type="checkbox"> 勾選框</li><li><input checked="" disabled="" type="checkbox"> 勾選框(預設勾選)</li></ul><blockquote><h4 id="9-程式碼片段"><a href="#9-程式碼片段" class="headerlink" title="9 程式碼片段"></a>9 程式碼片段</h4></blockquote><p>在文字的前後加上各加上一個反引號【`】(位於鍵盤esc下面)，效果如下<br><code>var a = 10;</code></p><blockquote><h4 id="10-程式碼區塊"><a href="#10-程式碼區塊" class="headerlink" title="10 程式碼區塊"></a>10 程式碼區塊</h4></blockquote><p>作為許多開發者撰寫文本的工具，插入程式碼也是合情合理的。開頭及結尾插入三個連續的反引號【&#96;&#96;&#96;】，並且可以在首行的位置補上該段程式碼的語言類別，以輸出具有Highlight的程式碼。</p><p><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/md.png?alt=media&token=dd69b2ca-4650-49d9-a866-2d3feb52d782" alt="code_block"></p><p>效果如下</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">sum_1_to_n</span>(<span class="params">x</span>):</span><br><span class="line">    <span class="keyword">if</span> x <span class="keyword">in</span> [<span class="number">0</span>, <span class="number">1</span>]:</span><br><span class="line">        <span class="keyword">return</span> x</span><br><span class="line">    <span class="keyword">else</span>:</span><br><span class="line">        <span class="keyword">return</span> x + sum_1_to_n(x-<span class="number">1</span>)</span><br></pre></td></tr></table></figure><blockquote><h4 id="11-表格"><a href="#11-表格" class="headerlink" title="11 表格"></a>11 表格</h4></blockquote><p>mrkdown的表格不是很好寫，範例如下。所以我建議直接至網上找現成的表格產生器比較快<br><a href="https://www.tablesgenerator.com/markdown_tables">Markdown Table Generator</a></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">|Title |Tiele |</span><br><span class="line">|:----:|:----:|</span><br><span class="line">| Text | Text |</span><br></pre></td></tr></table></figure><table><thead><tr><th align="center">Title</th><th align="center">Tiele</th></tr></thead><tbody><tr><td align="center">Text</td><td align="center">Text</td></tr></tbody></table><p>參考文章: <a href="https://markdown.tw/">https://markdown.tw/</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;近期開始撰寫技術部落格，&lt;/p&gt;
-&lt;blockquote&gt;
+    <summary type="html">&lt;blockquote&gt;
 &lt;h4 id=&quot;1-標題&quot;&gt;&lt;a href=&quot;#1-標題&quot; class=&quot;headerlink&quot; title=&quot;1 標題&quot;&gt;&lt;/a&gt;1 標題&lt;/h4&gt;&lt;/blockquote&gt;
-&lt;p&gt;標題共有6種大小，分別對應到h</summary>
+&lt;p&gt;標題共有6種大小，分別對應到html的h1到h6，在markdown中</summary>
       
     
     
@@ -46,11 +45,11 @@
   </entry>
   
   <entry>
-    <title>Test</title>
+    <title>SAS基礎語法</title>
     <link href="http://example.com/2022/10/08/Test/"/>
     <id>http://example.com/2022/10/08/Test/</id>
     <published>2022-10-08T02:40:29.000Z</published>
-    <updated>2022-10-09T04:47:00.446Z</updated>
+    <updated>2022-10-16T04:37:47.830Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello Hexo&quot;</span>)</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -62,10 +61,10 @@
     
     
     
-    <category term="Python" scheme="http://example.com/categories/Python/"/>
+    <category term="SAS" scheme="http://example.com/categories/SAS/"/>
     
     
-    <category term="test" scheme="http://example.com/tags/test/"/>
+    <category term="SAS" scheme="http://example.com/tags/SAS/"/>
     
   </entry>
   
