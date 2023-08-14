@@ -3,11 +3,11 @@
   <title>學測筆記</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://hsun0516.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://hsun0516.github.io/"/>
   <updated>2023-08-14T00:44:23.825Z</updated>
-  <id>http://example.com/</id>
+  <id>http://hsun0516.github.io/</id>
   
   <author>
     <name>Howard Sun</name>
@@ -18,25 +18,25 @@
   
   <entry>
     <title>【生物】Ch1.細胞的構造與功能</title>
-    <link href="http://example.com/2023/08/14/new-page/"/>
-    <id>http://example.com/2023/08/14/new-page/</id>
+    <link href="http://hsun0516.github.io/2023/08/14/new-page/"/>
+    <id>http://hsun0516.github.io/2023/08/14/new-page/</id>
     <published>2023-08-14T00:42:39.000Z</published>
     <updated>2023-08-14T00:44:23.825Z</updated>
     
     
     
     
-    <category term="生物" scheme="http://example.com/categories/%E7%94%9F%E7%89%A9/"/>
+    <category term="生物" scheme="http://hsun0516.github.io/categories/%E7%94%9F%E7%89%A9/"/>
     
     
-    <category term="細胞的構造與功能" scheme="http://example.com/tags/%E7%B4%B0%E8%83%9E%E7%9A%84%E6%A7%8B%E9%80%A0%E8%88%87%E5%8A%9F%E8%83%BD/"/>
+    <category term="細胞的構造與功能" scheme="http://hsun0516.github.io/tags/%E7%B4%B0%E8%83%9E%E7%9A%84%E6%A7%8B%E9%80%A0%E8%88%87%E5%8A%9F%E8%83%BD/"/>
     
   </entry>
   
   <entry>
     <title>十分鐘快速掌握MarkDown實用技巧</title>
-    <link href="http://example.com/2022/10/08/MarkDown%E7%B7%B4%E7%BF%92/"/>
-    <id>http://example.com/2022/10/08/MarkDown%E7%B7%B4%E7%BF%92/</id>
+    <link href="http://hsun0516.github.io/2022/10/08/MarkDown%E7%B7%B4%E7%BF%92/"/>
+    <id>http://hsun0516.github.io/2022/10/08/MarkDown%E7%B7%B4%E7%BF%92/</id>
     <published>2022-10-08T12:32:00.000Z</published>
     <updated>2022-10-16T04:19:12.111Z</updated>
     
@@ -52,19 +52,19 @@
     
     
     
-    <category term="MarkDown" scheme="http://example.com/categories/MarkDown/"/>
+    <category term="MarkDown" scheme="http://hsun0516.github.io/categories/MarkDown/"/>
     
     
-    <category term="MarkDown" scheme="http://example.com/tags/MarkDown/"/>
+    <category term="MarkDown" scheme="http://hsun0516.github.io/tags/MarkDown/"/>
     
-    <category term="入門" scheme="http://example.com/tags/%E5%85%A5%E9%96%80/"/>
+    <category term="入門" scheme="http://hsun0516.github.io/tags/%E5%85%A5%E9%96%80/"/>
     
   </entry>
   
   <entry>
     <title>SAS基礎語法</title>
-    <link href="http://example.com/2022/10/08/Test/"/>
-    <id>http://example.com/2022/10/08/Test/</id>
+    <link href="http://hsun0516.github.io/2022/10/08/Test/"/>
+    <id>http://hsun0516.github.io/2022/10/08/Test/</id>
     <published>2022-10-08T02:40:29.000Z</published>
     <updated>2022-10-16T04:37:47.830Z</updated>
     
@@ -78,17 +78,17 @@
     
     
     
-    <category term="SAS" scheme="http://example.com/categories/SAS/"/>
+    <category term="SAS" scheme="http://hsun0516.github.io/categories/SAS/"/>
     
     
-    <category term="SAS" scheme="http://example.com/tags/SAS/"/>
+    <category term="SAS" scheme="http://hsun0516.github.io/tags/SAS/"/>
     
   </entry>
   
   <entry>
     <title>title</title>
-    <link href="http://example.com/2022/10/06/title/"/>
-    <id>http://example.com/2022/10/06/title/</id>
+    <link href="http://hsun0516.github.io/2022/10/06/title/"/>
+    <id>http://hsun0516.github.io/2022/10/06/title/</id>
     <published>2022-10-06T12:54:27.000Z</published>
     <updated>2022-10-06T12:54:27.084Z</updated>
     
@@ -100,8 +100,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/10/06/hello-world/"/>
-    <id>http://example.com/2022/10/06/hello-world/</id>
+    <link href="http://hsun0516.github.io/2022/10/06/hello-world/"/>
+    <id>http://hsun0516.github.io/2022/10/06/hello-world/</id>
     <published>2022-10-06T12:46:13.401Z</published>
     <updated>2022-10-08T12:50:31.851Z</updated>
     
