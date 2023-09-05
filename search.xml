@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>SAS基礎語法</title>
+    <url>/2022/10/08/Test/</url>
+    <content><![CDATA[<h2 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h2><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello Hexo&quot;</span>)</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>SAS</category>
+      </categories>
+      <tags>
+        <tag>SAS</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>十分鐘快速掌握MarkDown實用技巧</title>
     <url>/2022/10/08/MarkDown%E7%B7%B4%E7%BF%92/</url>
     <content><![CDATA[<blockquote>
@@ -88,18 +100,6 @@
       </tags>
   </entry>
   <entry>
-    <title>SAS基礎語法</title>
-    <url>/2022/10/08/Test/</url>
-    <content><![CDATA[<h2 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h2><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello Hexo&quot;</span>)</span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>SAS</category>
-      </categories>
-      <tags>
-        <tag>SAS</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【生物】Ch1.細胞的構造與功能</title>
     <url>/2023/08/14/biology-1/</url>
     <content><![CDATA[<p><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/biology_1_1.jpg?alt=media&token=0b0e81db-bad3-403b-844b-51df85dbe798" alt="1"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/biology_1_2.jpg?alt=media&token=c6f2faeb-3553-48d8-b80f-1043ee3e66e0" alt="2"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/biology_1_3.jpg?alt=media&token=536acecd-b95d-4bde-90af-08024c41eafe" alt="3"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/biology_1_4.jpg?alt=media&token=8af98906-c76d-4a47-90ba-9c937b1c124d" alt="4"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/biology_1_5.jpg?alt=media&token=6debf22d-8511-4410-89db-f2e596a23ceb" alt="5"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/biology_1_6.jpg?alt=media&token=6ceffeeb-e1ed-4078-8d80-88d0a86d2257" alt="6"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/biology_1_7.jpg?alt=media&token=b0bad09e-32b8-4012-94ca-99eb392e7917" alt="7"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/biology_1_8.jpg?alt=media&token=4e6be766-74d4-4ac5-8ee1-683c0edc8b2b" alt="8"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/biology_1_9.jpg?alt=media&token=fe6e779b-39a4-4e95-808e-5556fe59bc19" alt="9"></p>
@@ -136,6 +136,18 @@
       </tags>
   </entry>
   <entry>
+    <title>【地科】Ch2.地質</title>
+    <url>/2023/09/04/earth-2/</url>
+    <content><![CDATA[<p><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh2%2Fearth_2_1.jpg?alt=media&token=f03b19b1-c02b-4277-9589-a88e8e3e6de0" alt="1"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh2%2Fearth_2_2.jpg?alt=media&token=d51bd3ba-a786-405a-98fe-61fef0bfda1a" alt="2"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh2%2Fearth_2_3.jpg?alt=media&token=5e178fbc-f354-46d6-9cf1-56b8549fdea5" alt="3"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh2%2Fearth_2_4.jpg?alt=media&token=127dd1f4-8e16-42c6-b747-6b25b92dcffc" alt="4"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh2%2Fearth_2_5.jpg?alt=media&token=e944a885-496f-4c17-ae0a-09b915d48ba1" alt="5"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh2%2Fearth_2_6.jpg?alt=media&token=1341f577-74c7-4d79-a2a4-9450b58b4c59" alt="6"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh2%2Fearth_2_7.jpg?alt=media&token=37ba4202-9b8d-435c-ae08-8388c6d4b702" alt="7"></p>
+]]></content>
+      <categories>
+        <category>地科</category>
+      </categories>
+      <tags>
+        <tag>地質</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【地科】Ch3.大氣</title>
     <url>/2023/09/04/earth-3/</url>
     <content><![CDATA[<p><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh3%2Fearth_3_1.jpg?alt=media&token=6619889c-3411-4f35-97d1-a84acec2a867" alt="1"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh3%2Fearth_3_2.jpg?alt=media&token=ce502b2e-6c74-4713-8bcd-3a8b1ab5d900" alt="2"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh3%2Fearth_3_3.jpg?alt=media&token=7441c65d-e370-4dfd-8947-5854613665ac" alt="3"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh3%2Fearth_3_4.jpg?alt=media&token=fa5aa1e8-4c84-4929-8060-b929f23f649f" alt="4"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh3%2Fearth_3_5.jpg?alt=media&token=accc78ad-ca50-4ca1-b42d-a5f583444301" alt="5"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh3%2Fearth_3_6.jpg?alt=media&token=601418ba-7564-4606-9b05-7812aa8b0ac9" alt="6"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh3%2Fearth_3_7.jpg?alt=media&token=c370c774-bdae-43a3-9bff-7d277b62a0db" alt="7"></p>
@@ -148,15 +160,15 @@
       </tags>
   </entry>
   <entry>
-    <title>【地科】Ch2.地質</title>
-    <url>/2023/09/04/earth-2/</url>
-    <content><![CDATA[<p><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh2%2Fearth_2_1.jpg?alt=media&token=f03b19b1-c02b-4277-9589-a88e8e3e6de0" alt="1"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh2%2Fearth_2_2.jpg?alt=media&token=d51bd3ba-a786-405a-98fe-61fef0bfda1a" alt="2"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh2%2Fearth_2_3.jpg?alt=media&token=5e178fbc-f354-46d6-9cf1-56b8549fdea5" alt="3"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh2%2Fearth_2_4.jpg?alt=media&token=127dd1f4-8e16-42c6-b747-6b25b92dcffc" alt="4"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh2%2Fearth_2_5.jpg?alt=media&token=e944a885-496f-4c17-ae0a-09b915d48ba1" alt="5"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh2%2Fearth_2_6.jpg?alt=media&token=1341f577-74c7-4d79-a2a4-9450b58b4c59" alt="6"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh2%2Fearth_2_7.jpg?alt=media&token=37ba4202-9b8d-435c-ae08-8388c6d4b702" alt="7"></p>
+    <title>【地科】Ch4.海洋</title>
+    <url>/2023/09/04/earth-4/</url>
+    <content><![CDATA[<p><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh4%2Fearth_4_1.jpg?alt=media&token=95e0442e-0030-48c3-8748-e5b583832e1f" alt="1"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh4%2Fearth_4_2.jpg?alt=media&token=a79cb2c4-ddce-4dc9-ba15-03144bd34b95" alt="2"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh4%2Fearth_4_3.jpg?alt=media&token=f620844c-7a0f-4fa6-ae5e-fd815659d54d" alt="3"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh4%2Fearth_4_4.jpg?alt=media&token=a540a0b3-1f5d-405a-9478-b2098481d295" alt="4"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh4%2Fearth_4_5.jpg?alt=media&token=022a91ff-85f2-48f3-b838-55a215d728b7" alt="5"></p>
 ]]></content>
       <categories>
         <category>地科</category>
       </categories>
       <tags>
-        <tag>地質</tag>
+        <tag>海洋</tag>
       </tags>
   </entry>
   <entry>
@@ -178,15 +190,87 @@
 ]]></content>
   </entry>
   <entry>
-    <title>【地科】Ch4.海洋</title>
-    <url>/2023/09/04/earth-4/</url>
-    <content><![CDATA[<p><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh4%2Fearth_4_1.jpg?alt=media&token=95e0442e-0030-48c3-8748-e5b583832e1f" alt="1"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh4%2Fearth_4_2.jpg?alt=media&token=a79cb2c4-ddce-4dc9-ba15-03144bd34b95" alt="2"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh4%2Fearth_4_3.jpg?alt=media&token=f620844c-7a0f-4fa6-ae5e-fd815659d54d" alt="3"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh4%2Fearth_4_4.jpg?alt=media&token=a540a0b3-1f5d-405a-9478-b2098481d295" alt="4"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E5%9C%B0%E7%A7%91%2FCh4%2Fearth_4_5.jpg?alt=media&token=022a91ff-85f2-48f3-b838-55a215d728b7" alt="5"></p>
+    <title>【數學】第一冊-Ch1.數與式&amp;指數與對數</title>
+    <url>/2023/09/05/math-1-1/</url>
+    <content><![CDATA[<p><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%B8%80%E5%86%8A%2FCh1%2Fmath_1_1_1.jpg?alt=media&token=e4652ea4-944e-40a7-ba7f-3b5c567cd54b" alt="1"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%B8%80%E5%86%8A%2FCh1%2Fmath_1_1_2.jpg?alt=media&token=e814079b-6a11-4e85-970c-1c177c6d5796" alt="2"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%B8%80%E5%86%8A%2FCh1%2Fmath_1_1_3.jpg?alt=media&token=218197a3-29f3-4ec1-8bb9-70eb5c438d03" alt="3"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%B8%80%E5%86%8A%2FCh1%2Fmath_1_1_4.jpg?alt=media&token=410f391a-3640-4178-8943-9f30dd6b15e4" alt="4"></p>
 ]]></content>
       <categories>
-        <category>地科</category>
+        <category>數學</category>
       </categories>
       <tags>
-        <tag>海洋</tag>
+        <tag>數與式&amp;指數與對數</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【數學】第一冊-Ch2.直線與圓</title>
+    <url>/2023/09/05/math-1-2/</url>
+    <content><![CDATA[<p><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%B8%80%E5%86%8A%2FCh2%2Fmath_1_2_1.jpg?alt=media&token=d8004972-2aa3-4866-9fdf-99e4d6d42c54" alt="1"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%B8%80%E5%86%8A%2FCh2%2Fmath_1_2_2.jpg?alt=media&token=4722d2b9-ae0a-4307-b324-7d4a2817cf4e" alt="2"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%B8%80%E5%86%8A%2FCh2%2Fmath_1_2_3.jpg?alt=media&token=0686f8a0-d8af-4a17-94d6-c89ff5d13409" alt="3"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%B8%80%E5%86%8A%2FCh2%2Fmath_1_2_4.jpg?alt=media&token=bb33b26d-530e-4dcc-9137-0d41f66309c5" alt="4"></p>
+]]></content>
+      <categories>
+        <category>數學</category>
+      </categories>
+      <tags>
+        <tag>直線與圓</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【數學】第一冊-Ch3.多項式</title>
+    <url>/2023/09/05/math-1-3/</url>
+    <content><![CDATA[<p><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%B8%80%E5%86%8A%2FCh3%2Fmath_1_3_1.jpg?alt=media&token=fcf75bfa-31d6-46cb-a0aa-5b90831514a2" alt="1"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%B8%80%E5%86%8A%2FCh3%2Fmath_1_3_2.jpg?alt=media&token=cb89b4b2-b30f-4b43-afb2-7756630052b9" alt="2"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%B8%80%E5%86%8A%2FCh3%2Fmath_1_3_3.jpg?alt=media&token=2b86d6cd-ba82-4619-ad2c-f70890a88b30" alt="3"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%B8%80%E5%86%8A%2FCh3%2Fmath_1_3_4.jpg?alt=media&token=c5e19c86-15aa-4831-acb1-56e449c840c1" alt="4"></p>
+]]></content>
+      <categories>
+        <category>數學</category>
+      </categories>
+      <tags>
+        <tag>多項式</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【數學】第二冊-Ch2.數據分析</title>
+    <url>/2023/09/05/math-2-2/</url>
+    <content><![CDATA[<p><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%BA%8C%E5%86%8A%2FCh2%2Fmath_2_2_1.jpg?alt=media&token=b380f183-eed0-4f1a-9964-f91d31d9c0a9" alt="1"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%BA%8C%E5%86%8A%2FCh2%2Fmath_2_2_2.jpg?alt=media&token=6926f5f4-dc6f-4c27-867c-ebed86eb18fb" alt="2"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%BA%8C%E5%86%8A%2FCh2%2Fmath_2_2_3.jpg?alt=media&token=6c221c78-8658-4fdd-8f4f-9943bb829180" alt="3"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%BA%8C%E5%86%8A%2FCh2%2Fmath_2_2_4.jpg?alt=media&token=93d88626-39f0-429f-8e52-5ba753dfbd83" alt="4"></p>
+]]></content>
+      <categories>
+        <category>數學</category>
+      </categories>
+      <tags>
+        <tag>數據分析</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【數學】第二冊-Ch3.排列組合與古典機率</title>
+    <url>/2023/09/05/math-2-3/</url>
+    <content><![CDATA[<p><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%BA%8C%E5%86%8A%2FCh3%2Fmath_2_3_1.jpg?alt=media&token=e3eb1833-3b49-4311-8a17-f72661727b24" alt="1"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%BA%8C%E5%86%8A%2FCh3%2Fmath_2_3_2.jpg?alt=media&token=25a25827-06c9-401b-a28b-e0f705b4d4e2" alt="2"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%BA%8C%E5%86%8A%2FCh3%2Fmath_2_3_3.jpg?alt=media&token=36212053-91a8-4bb4-a5f0-f1a00c12c973" alt="3"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%BA%8C%E5%86%8A%2FCh3%2Fmath_2_3_4.jpg?alt=media&token=cad8cde6-c7ad-42f0-849b-bc4387580019" alt="4"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%BA%8C%E5%86%8A%2FCh3%2Fmath_2_3_5.jpg?alt=media&token=658a592b-8796-4720-b6bd-f2ab0e7aca2a" alt="5"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%BA%8C%E5%86%8A%2FCh3%2Fmath_2_3_6.jpg?alt=media&token=a629a242-e74c-4000-ba73-f3c01f27f751" alt="6"></p>
+]]></content>
+      <categories>
+        <category>數學</category>
+      </categories>
+      <tags>
+        <tag>排列組合與古典機率</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【數學】第二冊-Ch4.三角比</title>
+    <url>/2023/09/05/math-2-4/</url>
+    <content><![CDATA[<p><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%BA%8C%E5%86%8A%2FCh4%2Fmath_2_4_1.jpg?alt=media&token=08748e1a-a538-4868-b3bb-c4bf03fb85e7" alt="1"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%BA%8C%E5%86%8A%2FCh4%2Fmath_2_4_2.jpg?alt=media&token=c8acc778-a74a-48f2-b36a-a96f0b8eefdb" alt="2"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%BA%8C%E5%86%8A%2FCh4%2Fmath_2_4_3.jpg?alt=media&token=a0f29cc4-7885-4520-99d0-7f1228c0539e" alt="3"></p>
+]]></content>
+      <categories>
+        <category>數學</category>
+      </categories>
+      <tags>
+        <tag>三角比</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【數學】第二冊-Ch1.數列與級數</title>
+    <url>/2023/09/05/math-2-1/</url>
+    <content><![CDATA[<p><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%BA%8C%E5%86%8A%2FCh1%2Fmath_2_1_1.jpg?alt=media&token=1973c736-c0ff-43eb-affd-cee052c52aa2" alt="1"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%BA%8C%E5%86%8A%2FCh1%2Fmath_2_1_2.jpg?alt=media&token=16724c95-2f69-4955-b3f8-47961b7ed3d8" alt="2"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%BA%8C%E5%86%8A%2FCh1%2Fmath_2_1_3.jpg?alt=media&token=c1a2cb53-dd81-4d80-8194-fbfe556f03ce" alt="3"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E6%95%B8%E5%AD%B8%2F%E7%AC%AC%E4%BA%8C%E5%86%8A%2FCh1%2Fmath_2_1_4.jpg?alt=media&token=6bb86a9d-f884-46c9-8bf9-52ef9166377a" alt="4"></p>
+]]></content>
+      <categories>
+        <category>數學</category>
+      </categories>
+      <tags>
+        <tag>數列與級數</tag>
       </tags>
   </entry>
   <entry>
@@ -202,18 +286,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【物理】Ch3.物體的運動</title>
-    <url>/2023/08/15/physics-3/</url>
-    <content><![CDATA[<p><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E7%89%A9%E7%90%86%2Fphysics_3_1.jpg?alt=media&token=91ddf7e7-9894-4061-b67c-86076012f09a" alt="1"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E7%89%A9%E7%90%86%2Fphysics_3_2.jpg?alt=media&token=81c369a9-54ba-445f-b6fc-ed17bcf99396" alt="2"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E7%89%A9%E7%90%86%2Fphysics_3_3.jpg?alt=media&token=23ca962e-1bfc-4ea4-960c-3733db494640" alt="3"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E7%89%A9%E7%90%86%2Fphysics_3_4.jpg?alt=media&token=8e420bd9-5774-4179-acf0-b7a7862b4d0e" alt="4"></p>
-]]></content>
-      <categories>
-        <category>物理</category>
-      </categories>
-      <tags>
-        <tag>物體的運動</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【物理】Ch2.物質的組成與交互作用</title>
     <url>/2023/08/15/physics-2/</url>
     <content><![CDATA[<p><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E7%89%A9%E7%90%86%2Fphysics_2_1.jpg?alt=media&token=c1b962f6-1ed4-4d84-a866-a9f9530104bb" alt="1"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E7%89%A9%E7%90%86%2Fphysics_2_2.jpg?alt=media&token=40ed7d9a-f8c8-4b14-b0ea-772fa5dd6dab" alt="2"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E7%89%A9%E7%90%86%2Fphysics_2_3.jpg?alt=media&token=186e0ea5-dd44-4f03-96c8-c9371c2c8201" alt="3"></p>
@@ -223,6 +295,18 @@
       </categories>
       <tags>
         <tag>物質的組成與交互作用</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【物理】Ch3.物體的運動</title>
+    <url>/2023/08/15/physics-3/</url>
+    <content><![CDATA[<p><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E7%89%A9%E7%90%86%2Fphysics_3_1.jpg?alt=media&token=91ddf7e7-9894-4061-b67c-86076012f09a" alt="1"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E7%89%A9%E7%90%86%2Fphysics_3_2.jpg?alt=media&token=81c369a9-54ba-445f-b6fc-ed17bcf99396" alt="2"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E7%89%A9%E7%90%86%2Fphysics_3_3.jpg?alt=media&token=23ca962e-1bfc-4ea4-960c-3733db494640" alt="3"><br><img src="https://firebasestorage.googleapis.com/v0/b/hexo-image.appspot.com/o/%E5%AD%B8%E6%B8%AC%E7%AD%86%E8%A8%98%2F%E7%89%A9%E7%90%86%2Fphysics_3_4.jpg?alt=media&token=8e420bd9-5774-4179-acf0-b7a7862b4d0e" alt="4"></p>
+]]></content>
+      <categories>
+        <category>物理</category>
+      </categories>
+      <tags>
+        <tag>物體的運動</tag>
       </tags>
   </entry>
   <entry>
